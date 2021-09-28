@@ -1,0 +1,33 @@
+body {
+  background-image: url("/assets/pokemon-bg.jpg");
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 750px;
+}
+.image {
+  border-radius: 50%;
+  display: flex;
+  height: 100px;
+  width: 100px;
+}
+.box {
+  display: inline block;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 300px;
+  height: 350px;
+  border-radius: 50px;
+}
+.center {
+  text-align: center;
+}
+.shadow-box{
+      -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+}
