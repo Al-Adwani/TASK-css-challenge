@@ -1,0 +1,12 @@
+.center{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.color{
+      color: rgb(255, 255, 255);
+      font-family: 'Cardo', serif;
+      text-align: center;
+      
+}
